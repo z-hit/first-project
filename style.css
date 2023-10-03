@@ -5,3 +5,8 @@
 body {
     background-color: aquamarine;
 }
+
+.title {
+    font-size: 27px;
+    color: gray;
+}
